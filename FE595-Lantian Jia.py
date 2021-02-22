@@ -28,5 +28,5 @@ plt.legend(['y=sinx','y=cosx'])
 # In[ ]:
 
 
-
-
+def Tangent()
+    print("hello")
